@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Airpods Wireless Bluetooth Headphones",
+    "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+    "photo": "https://res.cloudinary.com/pubgtournamentcomunitybd/image/upload/v1612886201/Product/lkafx3qizga57ggonabn.jpg",
+    "brand": "Apple",
+    "category": "6022c544f5056e50c1e17e9c",
+    "price": 89.99,
+    "countInStock": 0,
+    "ratingAvg": 4.5,
+    "ratingQty": 12
+  },
+  {
+    "name": "iPhone 11 Pro 256GB Memory",
+    "description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+    "photo": "https://res.cloudinary.com/pubgtournamentcomunitybd/image/upload/v1612886211/Product/k6wntbt4mzlvaqmfalrp.jpg",
+    "brand": "Apple",
+    "category": "6022c544f5056e50c1e17e9c",
+    "price": 599.99,
+    "countInStock": 7,
+    "ratingAvg": 4.0,
+    "ratingQty": 8
+  },
+  {
+    "name": "Cannon EOS 80D DSLR Camera",
+    "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+    "photo": "https://res.cloudinary.com/pubgtournamentcomunitybd/image/upload/v1612886220/Product/vyew1crpmv8nxwpdz6h8.jpg",
+    "brand": "Cannon",
+    "category": "6022c544f5056e50c1e17e9c",
+    "price": 929.99,
+    "countInStock": 5,
+    "ratingAvg": 3,
+    "ratingQty": 12
+  },
+  {
+    "name": "Sony Playstation 4 Pro White Version",
+    "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+    "photo": "https://res.cloudinary.com/pubgtournamentcomunitybd/image/upload/v1612886230/Product/geudbvospxikygblq00l.jpg",
+    "brand": "Sony",
+    "category": "6022c544f5056e50c1e17e9c",
+    "price": 399.99,
+    "countInStock": 11,
+    "ratingAvg": 5,
+    "ratingQty": 12
+  },
+  {
+    "name": "Logitech G-Series Gaming Mouse",
+    "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+    "photo": "https://res.cloudinary.com/pubgtournamentcomunitybd/image/upload/v1612886241/Product/agrcmzceeuuztchms6pr.jpg",
+    "brand": "Logitech",
+    "category": "6022c544f5056e50c1e17e9c",
+    "price": 49.99,
+    "countInStock": 8,
+    "ratingAvg": 4.7,
+    "ratingQty": 10
+  },
+  {
+    "name": "Amazon Echo Dot 3rd Generation",
+    "description": "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    "photo": "https://res.cloudinary.com/pubgtournamentcomunitybd/image/upload/v1612886257/Product/wddqw9kttntwkyz1kgrt.jpg",
+    "brand": "Amazon",
+    "category": "6022c544f5056e50c1e17e9c",
+    "price": 29.99,
+    "countInStock": 0,
+    "ratingAvg": 4.5,
+    "ratingQty": 12
+  }
+]
